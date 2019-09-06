@@ -13,7 +13,7 @@ public class githubpushtogitrepo {
 	
 	
 	
-	public void add()
+	public void add()   // add commnets for the code
 	{
 		int x=10;
 		int y=30;
